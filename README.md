@@ -15,6 +15,10 @@ If you want to generate subtitles for your video, you can use this notebook. All
 
 In order to fun the notebook, you will need to have an Azure Cognitive Services instance, and a key.
 
+You will also need to have an *ffmpeg* and *outputs* folder in your current directory.
+
+In the *ffmpeg* folder you will need to download [ffmpeg](https://ffmpeg.org/download.html) and put the executable/binary in there.
+
 ### Creating an Azure Cognitive Service instance
 
 - Log into the [Azure portal](https://portal.azure.com)
